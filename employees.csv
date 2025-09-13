@@ -1,0 +1,11 @@
+employee_id,department,manager,hire_date,salary,region,sales
+101,Sales,Alice,2018-05-10,70000,East,150000
+102,Sales,Alice,2020-07-12,68000,East,120000
+103,Engineering,Bob,2019-03-05,95000,West,50000
+104,Engineering,Bob,2021-11-20,87000,West,60000
+105,HR,Carol,2017-01-15,60000,East,0
+106,HR,Carol,2019-08-22,62000,West,0
+107,Sales,Alice,2022-04-01,71000,West,80000
+108,Engineering,Bob,2018-09-09,98000,East,70000
+109,Sales,Alice,2019-12-17,69000,West,90000
+110,HR,Carol,2021-06-05,64000,East,0
